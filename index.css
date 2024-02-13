@@ -19,16 +19,16 @@ div {
 }
 
 .box3 {
-    border: 6px solid black;
+    border: 8px solid black;
     margin-left: 148px;
 }
 
 .box4 {
-    border: 8px solid black;
-    margin-left: 226px;
+    border: 16px solid black;
+    margin-left: 231px;
 }
 
 .box5 {
-    border: 10px solid black;
-    margin-left: 310px;
+    border: 32px solid black;
+    margin-left: 331px;
 }
